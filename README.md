@@ -8,9 +8,10 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 
 # 📚 Progress Tracker
 
-| Day | Topics Covered |
+| Day | Topics Covered |     
 |-----|----------------|
 | 1 | Introduction to ML, Types of ML, Regression vs Classification, Scikit-learn Basics |
+| 2 | Feature Engineering, Encoding, Regularization, Logistic Regression |
 
 ---
 
@@ -36,6 +37,32 @@ Instead, we train models on data so they can learn patterns and make predictions
 
 - Classification → predicts categories
   - Example: Spam detection
+
+---
+
+# ✅ Day 2 Highlights
+
+- Feature Engineering & Encoding
+- Dummy Variable Trap
+- Overfitting & Underfitting
+- Regularization
+  - Lasso Regression
+  - Ridge Regression
+- ElasticNet Overview
+- Logistic Regression
+
+## 💡 Key Understanding
+
+Machine Learning is not just about choosing an algorithm.  
+Good features, preprocessing, and proper tuning play a huge role in model performance.
+
+## 📌 Quick Understanding
+
+- Lasso Regression → performs feature selection using L1 regularization
+
+- Ridge Regression → reduces overfitting using L2 regularization
+
+- Logistic Regression → used for classification problems
 
 ---
 
