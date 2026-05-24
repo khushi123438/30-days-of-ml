@@ -2,7 +2,7 @@
 
 Welcome to my #30DaysOfML journey!
 
-I’ll be documenting my Machine Learning learning journey day by day by sharing notes, code, concepts, and mini projects.
+I’ll be documenting my Machine Learning learning journey day by day by sharing code, concepts, and mini projects.
 
 ---
 
