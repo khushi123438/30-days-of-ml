@@ -12,6 +12,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 |-----|----------------|
 | 1 | Introduction to ML, Types of ML, Regression vs Classification, Scikit-learn Basics |
 | 2 | Feature Engineering, Encoding, Regularization, Logistic Regression |
+| 3 | Preprocessing, Evaluation Metrics, Naive Bayes, kNN, Cross Validation |
 
 ---
 
@@ -63,6 +64,38 @@ Good features, preprocessing, and proper tuning play a huge role in model perfor
 - Ridge Regression → reduces overfitting using L2 regularization
 
 - Logistic Regression → used for classification problems
+
+---
+
+# ✅ Day 3 Highlights
+
+- Standardization & Normalization
+- StandardScaler
+- Confusion Matrix
+- Classification Evaluation Metrics
+- Naive Bayes Algorithm
+- Types of Naive Bayes
+- k-Nearest Neighbours (kNN)
+- Limitations of kNN
+- Validation Data
+- Cross Validation
+- Hyperparameter Tuning using CV
+- Pipeline in Scikit-learn
+
+## 💡 Key Understanding
+
+Machine Learning is not only about training models.  
+Proper preprocessing, evaluation metrics, and validation techniques are equally important for building accurate and reliable models.
+
+## 📌 Quick Understanding
+
+- Standardization → transforms data to mean 0 and standard deviation 1
+
+- Naive Bayes → probability-based classification algorithm
+
+- kNN → predicts based on nearest data points
+
+- Cross Validation → improves model evaluation reliability
 
 ---
 
