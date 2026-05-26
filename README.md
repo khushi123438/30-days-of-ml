@@ -13,6 +13,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 1 | Introduction to ML, Types of ML, Regression vs Classification, Scikit-learn Basics |
 | 2 | Feature Engineering, Encoding, Regularization, Logistic Regression |
 | 3 | Preprocessing, Evaluation Metrics, Naive Bayes, kNN, Cross Validation |
+| 4 | Supervised ML Revision, House Price Prediction Assignment, Linear Regression Workflow |
 
 ---
 
@@ -96,6 +97,32 @@ Proper preprocessing, evaluation metrics, and validation techniques are equally 
 - kNN → predicts based on nearest data points
 
 - Cross Validation → improves model evaluation reliability
+
+---
+
+# ✅ Day 4 Highlights
+
+- Supervised Machine Learning Revision
+- Regression vs Classification Revision
+- House Price Prediction Assignment
+- Dataset Understanding
+- Data Preprocessing
+- Linear Regression Workflow
+
+## 💡 Key Understanding
+
+Machine Learning projects are not only about model training.  
+Understanding the problem statement, preprocessing the dataset correctly, and selecting useful features are equally important for building accurate prediction systems.
+
+## 📌 Quick Understanding
+
+- Supervised Learning → learns using labeled data
+
+- Regression → predicts continuous values like house prices
+
+- Linear Regression → commonly used for price prediction problems
+
+- Data Preprocessing → improves model performance and data quality
 
 ---
 
