@@ -8,12 +8,13 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 
 # 📚 Progress Tracker
 
-| Day | Topics Covered |     
+| Day | Topics Covered |
 |-----|----------------|
 | 1 | Introduction to ML, Types of ML, Regression vs Classification, Scikit-learn Basics |
 | 2 | Feature Engineering, Encoding, Regularization, Logistic Regression |
 | 3 | Preprocessing, Evaluation Metrics, Naive Bayes, kNN, Cross Validation |
 | 4 | Supervised ML Revision, House Price Prediction Assignment, Linear Regression Workflow |
+| 5 | Logistic Regression Revision, Regularization, Employee Turnover Prediction Assignment |
 
 ---
 
@@ -123,6 +124,70 @@ Understanding the problem statement, preprocessing the dataset correctly, and se
 - Linear Regression → commonly used for price prediction problems
 
 - Data Preprocessing → improves model performance and data quality
+
+---
+
+# ✅ Day 5 Highlights
+
+- Logistic Regression Revision
+- Feature Engineering Revision
+- Regularization Techniques
+  - L1 Regularization
+  - L2 Regularization
+- Employee Turnover Prediction Assignment
+- Baseline Model Building
+- Model Comparison & Evaluation
+
+## 💡 Key Understanding
+
+Building a good Machine Learning model is not only about accuracy.  
+Feature engineering, regularization, and proper evaluation help create models that generalize well on unseen data.
+
+## 📌 Quick Understanding
+
+- Logistic Regression → used for binary classification problems
+
+- L1 Regularization → helps in feature selection by shrinking coefficients to zero
+
+- L2 Regularization → reduces overfitting while keeping all features
+
+- Feature Engineering → improves model learning using better input features
+
+- Model Evaluation → helps compare and select the best performing model
+
+---
+
+# 🛠️ Tools & Libraries Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
+- Jupyter Notebook
+
+---
+
+# 🎯 Goals of This Journey
+
+- Build strong Machine Learning fundamentals
+- Practice real-world ML workflows
+- Work on assignments and mini projects
+- Improve consistency in learning
+- Share progress publicly
+
+---
+
+# 📌 Connect With Me
+
+I’ll continue updating this repository daily with:
+- Notes
+- ML concepts
+- Assignments
+- Code implementations
+- Mini projects
 
 ---
 
