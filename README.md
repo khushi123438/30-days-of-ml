@@ -15,6 +15,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 3 | Preprocessing, Evaluation Metrics, Naive Bayes, kNN, Cross Validation |
 | 4 | Supervised ML Revision, House Price Prediction Assignment, Linear Regression Workflow |
 | 5 | Logistic Regression Revision, Regularization, Employee Turnover Prediction Assignment |
+| 6 | KNN & Naive Bayes Revision, Iris Flower Classification Assignment |
 
 ---
 
@@ -92,11 +93,8 @@ Proper preprocessing, evaluation metrics, and validation techniques are equally 
 ## 📌 Quick Understanding
 
 - Standardization → transforms data to mean 0 and standard deviation 1
-
 - Naive Bayes → probability-based classification algorithm
-
 - kNN → predicts based on nearest data points
-
 - Cross Validation → improves model evaluation reliability
 
 ---
@@ -118,11 +116,8 @@ Understanding the problem statement, preprocessing the dataset correctly, and se
 ## 📌 Quick Understanding
 
 - Supervised Learning → learns using labeled data
-
 - Regression → predicts continuous values like house prices
-
 - Linear Regression → commonly used for price prediction problems
-
 - Data Preprocessing → improves model performance and data quality
 
 ---
@@ -146,14 +141,32 @@ Feature engineering, regularization, and proper evaluation help create models th
 ## 📌 Quick Understanding
 
 - Logistic Regression → used for binary classification problems
-
 - L1 Regularization → helps in feature selection by shrinking coefficients to zero
-
 - L2 Regularization → reduces overfitting while keeping all features
-
 - Feature Engineering → improves model learning using better input features
-
 - Model Evaluation → helps compare and select the best performing model
+
+---
+
+# ✅ Day 6 Highlights
+
+- K-Nearest Neighbours (KNN)
+- Logistic Regression
+- Naive Bayes Classifier
+- Standardization (Feature Scaling)
+- Train-Test Split Strategy
+- Iris Flower Classification Assignment
+
+## 💡 Key Understanding
+
+This project helped in understanding how different machine learning algorithms behave on the same dataset. Even on a simple dataset like Iris, preprocessing and model selection play an important role in performance.
+
+## 📌 Quick Understanding
+
+- KNN → classification based on nearest data points  
+- Logistic Regression → strong baseline classification model  
+- Naive Bayes → probabilistic classification approach  
+- Standardization → improves performance for distance-based models  
 
 ---
 
