@@ -16,6 +16,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 4 | Supervised ML Revision, House Price Prediction Assignment, Linear Regression Workflow |
 | 5 | Logistic Regression Revision, Regularization, Employee Turnover Prediction Assignment |
 | 6 | KNN & Naive Bayes Revision, Iris Flower Classification Assignment |
+| 7 | Scratch Implementation: Linear Regression, Logistic Regression, KNN Classifier & Regressor |
 
 ---
 
@@ -62,11 +63,9 @@ Good features, preprocessing, and proper tuning play a huge role in model perfor
 
 ## 📌 Quick Understanding
 
-- Lasso Regression → performs feature selection using L1 regularization
-
-- Ridge Regression → reduces overfitting using L2 regularization
-
-- Logistic Regression → used for classification problems
+- Lasso Regression → performs feature selection using L1 regularization  
+- Ridge Regression → reduces overfitting using L2 regularization  
+- Logistic Regression → used for classification problems  
 
 ---
 
@@ -77,74 +76,40 @@ Good features, preprocessing, and proper tuning play a huge role in model perfor
 - Confusion Matrix
 - Classification Evaluation Metrics
 - Naive Bayes Algorithm
-- Types of Naive Bayes
 - k-Nearest Neighbours (kNN)
-- Limitations of kNN
-- Validation Data
 - Cross Validation
-- Hyperparameter Tuning using CV
+- Hyperparameter Tuning
 - Pipeline in Scikit-learn
 
 ## 💡 Key Understanding
 
-Machine Learning is not only about training models.  
-Proper preprocessing, evaluation metrics, and validation techniques are equally important for building accurate and reliable models.
-
-## 📌 Quick Understanding
-
-- Standardization → transforms data to mean 0 and standard deviation 1
-- Naive Bayes → probability-based classification algorithm
-- kNN → predicts based on nearest data points
-- Cross Validation → improves model evaluation reliability
+Proper preprocessing, evaluation metrics, and validation techniques are essential for building reliable ML models.
 
 ---
 
 # ✅ Day 4 Highlights
 
 - Supervised Machine Learning Revision
-- Regression vs Classification Revision
 - House Price Prediction Assignment
-- Dataset Understanding
-- Data Preprocessing
 - Linear Regression Workflow
+- Data Preprocessing
 
 ## 💡 Key Understanding
 
-Machine Learning projects are not only about model training.  
-Understanding the problem statement, preprocessing the dataset correctly, and selecting useful features are equally important for building accurate prediction systems.
-
-## 📌 Quick Understanding
-
-- Supervised Learning → learns using labeled data
-- Regression → predicts continuous values like house prices
-- Linear Regression → commonly used for price prediction problems
-- Data Preprocessing → improves model performance and data quality
+Understanding problem statements and proper preprocessing is as important as model training.
 
 ---
 
 # ✅ Day 5 Highlights
 
 - Logistic Regression Revision
-- Feature Engineering Revision
-- Regularization Techniques
-  - L1 Regularization
-  - L2 Regularization
+- Regularization (L1 & L2)
 - Employee Turnover Prediction Assignment
-- Baseline Model Building
-- Model Comparison & Evaluation
+- Model Evaluation & Comparison
 
 ## 💡 Key Understanding
 
-Building a good Machine Learning model is not only about accuracy.  
-Feature engineering, regularization, and proper evaluation help create models that generalize well on unseen data.
-
-## 📌 Quick Understanding
-
-- Logistic Regression → used for binary classification problems
-- L1 Regularization → helps in feature selection by shrinking coefficients to zero
-- L2 Regularization → reduces overfitting while keeping all features
-- Feature Engineering → improves model learning using better input features
-- Model Evaluation → helps compare and select the best performing model
+A good ML model is not only about accuracy but also about generalization and proper feature engineering.
 
 ---
 
@@ -153,20 +118,41 @@ Feature engineering, regularization, and proper evaluation help create models th
 - K-Nearest Neighbours (KNN)
 - Logistic Regression
 - Naive Bayes Classifier
-- Standardization (Feature Scaling)
-- Train-Test Split Strategy
-- Iris Flower Classification Assignment
+- Feature Scaling (Standardization)
+- Iris Flower Classification Project
 
 ## 💡 Key Understanding
 
-This project helped in understanding how different machine learning algorithms behave on the same dataset. Even on a simple dataset like Iris, preprocessing and model selection play an important role in performance.
+Different ML algorithms behave differently on the same dataset. Proper preprocessing significantly improves performance.
+
+---
+
+# 🚀 Day 7 Highlights
+
+## 📘 Scratch Implementation of ML Algorithms
+
+- Linear Regression (from scratch)
+- Logistic Regression (from scratch)
+- K-Nearest Neighbours (KNN) Classifier
+- KNN Regressor
+
+## 🧠 What I Did
+
+- Implemented Linear Regression using mathematical intuition  
+- Built Logistic Regression using sigmoid function  
+- Implemented KNN using Euclidean distance  
+- Created KNN Regressor for continuous predictions  
+
+## 💡 Key Understanding
+
+Building models from scratch helps in understanding the internal working of machine learning algorithms deeply. Once the logic is clear, using ML libraries becomes much more powerful and meaningful.
 
 ## 📌 Quick Understanding
 
-- KNN → classification based on nearest data points  
-- Logistic Regression → strong baseline classification model  
-- Naive Bayes → probabilistic classification approach  
-- Standardization → improves performance for distance-based models  
+- Linear Regression → predicts continuous values using best-fit line  
+- Logistic Regression → converts output into probability using sigmoid  
+- KNN → predicts based on nearest data points  
+- Distance metrics → core concept behind KNN  
 
 ---
 
@@ -178,7 +164,6 @@ This project helped in understanding how different machine learning algorithms b
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Google Colab
 - Jupyter Notebook
 
 ---
@@ -187,7 +172,7 @@ This project helped in understanding how different machine learning algorithms b
 
 - Build strong Machine Learning fundamentals
 - Practice real-world ML workflows
-- Work on assignments and mini projects
+- Implement algorithms from scratch
 - Improve consistency in learning
 - Share progress publicly
 
@@ -204,4 +189,4 @@ I’ll continue updating this repository daily with:
 
 ---
 
-Excited to keep learning and building consistently 🚀
+🚀 Excited to keep learning and building consistently
