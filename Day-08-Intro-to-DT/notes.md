@@ -2,8 +2,6 @@
 
 ---
 
-## 📘 Problem Statement
-
 Today the focus was on understanding the theoretical foundation of Decision Trees in Machine Learning.
 
 No coding or implementation was done. The goal was to build strong conceptual clarity about how Decision Trees work internally and how they make decisions based on data.
