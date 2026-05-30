@@ -1,56 +1,95 @@
-🚀 Day 8 - Decision Trees (Theoretical Understanding)
+# 🚀 Day 8 - Decision Trees (Theoretical Understanding)
+
+---
+
+## 📘 Problem Statement
 
 Today the focus was on understanding the theoretical foundation of Decision Trees in Machine Learning.
+
 No coding or implementation was done. The goal was to build strong conceptual clarity about how Decision Trees work internally and how they make decisions based on data.
 
-🎯 Objectives
-Understand the concept of Decision Trees
-Learn how splitting of data happens
-Study impurity measures like Entropy and Gini Index
-Understand Information Gain and feature selection
-Build intuition behind tree-based decision making
+---
 
-🧠 Core Concepts Studied
+# 🎯 Objectives
 
-🌳 Decision Tree Basics
+- Understand the concept of Decision Trees
+- Learn how data splitting happens
+- Study impurity measures like Entropy and Gini Index
+- Understand Information Gain and feature selection
+- Build intuition behind tree-based decision making
+
+---
+
+# 🧠 Core Concepts Studied
+
+## 🌳 Decision Tree Basics
+
 A Decision Tree is a supervised learning algorithm that splits data into branches based on feature conditions and makes decisions in a tree-like structure.
 
-🔹 Entropy
-Measures the level of uncertainty or randomness in data.
-Lower entropy means purer data.
+---
 
-🔹 Gini Impurity
-Another measure of impurity used to evaluate how often a randomly chosen element would be incorrectly classified.
+## 🔹 Entropy
 
-🔹 Information Gain
-Measures how much a feature improves the purity of the dataset after splitting.
-Used to select the best feature at each node.
+- Measures the level of uncertainty or randomness in data  
+- Lower entropy means purer data  
 
-🔹 Splitting Process
-Data is divided into subsets based on feature conditions.
-Each split aims to reduce impurity.
+---
 
-🔹 Leaf Nodes
-Final nodes of the tree that give the predicted output.
+## 🔹 Gini Impurity
 
-📊 Key Learnings
+- Measures how often a randomly chosen element would be incorrectly classified  
+- Used as an alternative to entropy  
 
-Decision Trees work like flowcharts of decisions
-Model learns simple if-else rules from data
-Feature selection is based on impurity reduction
-Entropy and Gini help measure dataset quality
-Information Gain drives optimal splitting
+---
 
-💡 Key Insight
-Decision Trees convert complex data patterns into simple human-readable rules.  
-They are powerful because they are both interpretable and effective.
+## 🔹 Information Gain
 
-📌 Topics Covered Today
-Decision Tree Introduction
-Entropy (Concept)
-Gini Impurity (Concept)
-Information Gain (Concept)
-Tree Splitting Logic
-Leaf Node Concept
+- Measures how much a feature improves data purity after splitting  
+- Higher information gain = better feature selection  
 
-🚀 Continuing the #30DaysOfML journey step by step to build strong ML fundamentals!
+---
+
+## 🔹 Splitting Process
+
+- Data is divided into subsets based on feature conditions  
+- Each split aims to reduce impurity  
+
+---
+
+## 🔹 Leaf Nodes
+
+- Final nodes of the tree  
+- Provide the final predicted output  
+
+---
+
+# 📊 Key Learnings
+
+- Decision Trees convert data into simple decision rules
+- Model works like a flowchart of conditions
+- Feature selection is based on impurity reduction
+- Entropy and Gini measure dataset disorder
+- Information Gain helps choose best splits
+
+---
+
+# 💡 Key Insight
+
+Decision Trees are powerful because they are interpretable.
+
+They don’t behave like a black box — instead, they make decisions using clear if-else rules derived from data.
+
+---
+
+# 📌 Topics Covered Today
+
+- Decision Tree Introduction
+- Entropy (Concept)
+- Gini Impurity (Concept)
+- Information Gain
+- Tree Splitting Logic
+- Leaf Node Concept
+
+---
+
+🚀 Excited to continue the #30DaysOfML journey and move towards ensemble models like Random Forest and Boosting!
