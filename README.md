@@ -17,6 +17,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 5 | Logistic Regression Revision, Regularization, Employee Turnover Prediction Assignment |
 | 6 | KNN & Naive Bayes Revision, Iris Flower Classification Assignment |
 | 7 | Scratch Implementation: Linear Regression, Logistic Regression, KNN Classifier & Regressor |
+| 8 | Decision Trees (Entropy, Gini, Information Gain, Tree Splitting - Theory) |
 
 ---
 
@@ -37,11 +38,11 @@ Instead, we train models on data so they can learn patterns and make predictions
 
 ## 📌 Quick Understanding
 
-- Regression → predicts continuous values
-  - Example: House price prediction
+- Regression → predicts continuous values  
+  - Example: House price prediction  
 
-- Classification → predicts categories
-  - Example: Spam detection
+- Classification → predicts categories  
+  - Example: Spam detection  
 
 ---
 
@@ -153,6 +154,32 @@ Building models from scratch helps in understanding the internal working of mach
 - Logistic Regression → converts output into probability using sigmoid  
 - KNN → predicts based on nearest data points  
 - Distance metrics → core concept behind KNN  
+
+---
+
+# 🌳 Day 8 Highlights
+
+## 📘 Decision Trees (Theoretical Understanding)
+
+- Introduction to Decision Trees
+- Entropy (measure of impurity)
+- Gini Impurity
+- Information Gain
+- Tree splitting logic
+- Leaf nodes concept
+
+## 💡 Key Understanding
+
+Decision Trees work by repeatedly splitting data based on feature conditions to reduce impurity.
+
+They are highly interpretable because they follow clear decision rules instead of being a black-box model.
+
+## 📌 Quick Understanding
+
+- Entropy → measures randomness in data  
+- Gini Impurity → measures misclassification probability  
+- Information Gain → helps choose best feature for split  
+- Tree structure → series of if-else decision rules  
 
 ---
 
