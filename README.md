@@ -118,7 +118,7 @@ Different ML algorithms behave differently on the same dataset. Proper preproces
 
 ---
 
-# 🚀 Day 7 Highlights
+# ✅ Day 7 Highlights
 
 ## 📘 Scratch Implementation of ML Algorithms
 
@@ -140,7 +140,7 @@ Building models from scratch helps in understanding the internal working of mach
 
 ---
 
-# 🌳 Day 8 Highlights
+# ✅ Day 8 Highlights
 
 ## 📘 Decision Trees (Theoretical Understanding)
 
@@ -159,7 +159,7 @@ They are highly interpretable because they follow clear decision rules instead o
 
 ---
 
-# 🌲 Day 9 Highlights
+# ✅ Day 9 Highlights
 
 ## 📘 Decision Trees (Implementation & Real-World Assignment)
 
@@ -196,7 +196,7 @@ Pruning techniques help control model complexity and improve performance on unse
 
 ---
 
-# 🌳 Day 10 Highlights
+# ✅ Day 10 Highlights
 
 ## 📘 CreditWise Loan Approval System (Problem Understanding & ML Design)
 
