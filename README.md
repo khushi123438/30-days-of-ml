@@ -2,7 +2,7 @@
 
 Welcome to my #30DaysOfML journey!
 
-I’ll be documenting my Machine Learning learning journey day by day by sharing code, concepts, and mini projects.
+I’ll be documenting my Machine Learning learning journey day by day by sharing code, concepts, assignments, and mini projects.
 
 ---
 
@@ -18,6 +18,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 6 | KNN & Naive Bayes Revision, Iris Flower Classification Assignment |
 | 7 | Scratch Implementation: Linear Regression, Logistic Regression, KNN Classifier & Regressor |
 | 8 | Decision Trees (Entropy, Gini, Information Gain, Tree Splitting - Theory) |
+| 9 | Decision Tree Classifier, Pre-Pruning, Post-Pruning, Decision Tree Regressor, Variance Reduction, ShopSmart E-Commerce Assignment |
 
 ---
 
@@ -33,16 +34,9 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 
 ## 💡 Key Understanding
 
-Machine Learning is not about writing every rule manually.  
+Machine Learning is not about writing every rule manually.
+
 Instead, we train models on data so they can learn patterns and make predictions.
-
-## 📌 Quick Understanding
-
-- Regression → predicts continuous values  
-  - Example: House price prediction  
-
-- Classification → predicts categories  
-  - Example: Spam detection  
 
 ---
 
@@ -59,14 +53,9 @@ Instead, we train models on data so they can learn patterns and make predictions
 
 ## 💡 Key Understanding
 
-Machine Learning is not just about choosing an algorithm.  
+Machine Learning is not just about choosing an algorithm.
+
 Good features, preprocessing, and proper tuning play a huge role in model performance.
-
-## 📌 Quick Understanding
-
-- Lasso Regression → performs feature selection using L1 regularization  
-- Ridge Regression → reduces overfitting using L2 regularization  
-- Logistic Regression → used for classification problems  
 
 ---
 
@@ -134,26 +123,19 @@ Different ML algorithms behave differently on the same dataset. Proper preproces
 
 - Linear Regression (from scratch)
 - Logistic Regression (from scratch)
-- K-Nearest Neighbours (KNN) Classifier
+- KNN Classifier
 - KNN Regressor
 
 ## 🧠 What I Did
 
-- Implemented Linear Regression using mathematical intuition  
-- Built Logistic Regression using sigmoid function  
-- Implemented KNN using Euclidean distance  
-- Created KNN Regressor for continuous predictions  
+- Implemented Linear Regression using mathematical intuition
+- Built Logistic Regression using the Sigmoid Function
+- Implemented KNN using Euclidean Distance
+- Created KNN Regressor for continuous predictions
 
 ## 💡 Key Understanding
 
-Building models from scratch helps in understanding the internal working of machine learning algorithms deeply. Once the logic is clear, using ML libraries becomes much more powerful and meaningful.
-
-## 📌 Quick Understanding
-
-- Linear Regression → predicts continuous values using best-fit line  
-- Logistic Regression → converts output into probability using sigmoid  
-- KNN → predicts based on nearest data points  
-- Distance metrics → core concept behind KNN  
+Building models from scratch helps in understanding the internal working of machine learning algorithms deeply.
 
 ---
 
@@ -162,11 +144,11 @@ Building models from scratch helps in understanding the internal working of mach
 ## 📘 Decision Trees (Theoretical Understanding)
 
 - Introduction to Decision Trees
-- Entropy (measure of impurity)
+- Entropy
 - Gini Impurity
 - Information Gain
-- Tree splitting logic
-- Leaf nodes concept
+- Tree Splitting Logic
+- Leaf Nodes
 
 ## 💡 Key Understanding
 
@@ -174,12 +156,51 @@ Decision Trees work by repeatedly splitting data based on feature conditions to 
 
 They are highly interpretable because they follow clear decision rules instead of being a black-box model.
 
-## 📌 Quick Understanding
+---
 
-- Entropy → measures randomness in data  
-- Gini Impurity → measures misclassification probability  
-- Information Gain → helps choose best feature for split  
-- Tree structure → series of if-else decision rules  
+# 🌲 Day 9 Highlights
+
+## 📘 Decision Trees (Implementation & Real-World Assignment)
+
+### Topics Covered
+
+- Decision Tree Classifier
+- Pre-Pruning
+- Post-Pruning
+- Decision Tree Regressor
+- Variance Reduction
+- EDA & Data Preprocessing
+- Model Evaluation using F1-Score
+
+### 🛒 Assignment: ShopSmart E-Commerce Prediction
+
+Worked on a real-world supervised learning problem where the objective was to predict whether a user would complete a purchase based on browsing session behaviour.
+
+### ⚙️ Tasks Performed
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Handling Numerical and Categorical Features
+- Decision Tree Classifier Implementation
+- Pre-Pruning & Post-Pruning
+- Addressing Class Imbalance
+- F1-Score Evaluation
+- Model Generalization Improvement
+
+### 💡 Key Understanding
+
+Decision Trees are easy to interpret but can easily overfit.
+
+Pruning techniques help control model complexity and improve performance on unseen data.
+
+### 📌 Quick Understanding
+
+- Decision Tree Classifier → predicts categories
+- Decision Tree Regressor → predicts continuous values
+- Variance Reduction → splitting criterion for regression trees
+- Pre-Pruning → stops unnecessary growth early
+- Post-Pruning → removes unnecessary branches later
+- F1-Score → useful metric for imbalanced datasets
 
 ---
 
@@ -208,12 +229,15 @@ They are highly interpretable because they follow clear decision rules instead o
 # 📌 Connect With Me
 
 I’ll continue updating this repository daily with:
+
 - Notes
-- ML concepts
+- ML Concepts
 - Assignments
-- Code implementations
-- Mini projects
+- Code Implementations
+- Mini Projects
+- Real-World Machine Learning Problems
 
 ---
 
-🚀 Excited to keep learning and building consistently
+🚀 Excited to keep learning, building, and growing throughout this #30DaysOfML journey!
+
