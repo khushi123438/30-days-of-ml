@@ -1,4 +1,4 @@
-# 🌳 Day 10 Highlights
+# 🚀 Day 10 Highlights
 
 ## 📘 CreditWise Loan Approval System (Problem Understanding & ML Pipeline Design)
 
