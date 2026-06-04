@@ -196,7 +196,7 @@ Pruning techniques help control model complexity and improve performance on unse
 
 ---
 
-# ✅ Day 10 Highlights
+# ✅ Day 10 & Day 11 Highlights
 
 ## 📘 CreditWise Loan Approval System (Problem Understanding & ML Design)
 
