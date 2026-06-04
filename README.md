@@ -22,6 +22,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 10 | CreditWise Loan Approval System (Problem Understanding, Dataset Analysis) |
 | 11 | CreditWise Loan Approval System (ML Pipeline) |
 | 12 | Support Vector Machines (SVM), Kernel Trick, SVR, Ensemble Learning, Random Forest, Bagging, Boosting (Theory) |
+| 13 | Revision of Decision Trees, SVM, Kernel Trick, SVR, Ensemble Learning, Random Forest, Bagging & Boosting |
 
 ---
 
@@ -283,6 +284,32 @@ A strong ML pipeline begins with clear business logic.
 SVMs find the optimal decision boundary using support vectors and margins.
 
 Kernel functions allow SVMs to solve non-linear problems, while Ensemble Learning improves model performance by combining multiple models such as Random Forest and Boosting.
+
+---
+
+# ✅ Day 13 Highlights
+
+## 📘 Machine Learning Revision
+
+- Decision Trees Revision
+- Entropy & Gini Impurity
+- Information Gain
+- Decision Tree Classifier & Regressor
+- Pre-Pruning & Post-Pruning
+- Support Vector Machines (SVM)
+- Support Vectors & Margins
+- Kernel Trick
+- Support Vector Regression (SVR)
+- Ensemble Learning
+- Random Forest
+- Bagging
+- Boosting
+
+## 💡 Key Understanding
+
+Revision is an essential part of the learning process.
+
+Revisiting concepts helped strengthen my understanding of Decision Trees, SVMs, and Ensemble Learning techniques while identifying areas that need further practice.
 
 ---
 
