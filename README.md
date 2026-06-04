@@ -19,7 +19,9 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 7 | Scratch Implementation: Linear Regression, Logistic Regression, KNN Classifier & Regressor |
 | 8 | Decision Trees (Entropy, Gini, Information Gain, Tree Splitting - Theory) |
 | 9 | Decision Tree Classifier, Pre-Pruning, Post-Pruning, Decision Tree Regressor, Variance Reduction, ShopSmart E-Commerce Assignment |
-| 10 | CreditWise Loan Approval System (Problem Understanding, Dataset Analysis, ML Pipeline Design) |
+| 10 | CreditWise Loan Approval System (Problem Understanding, Dataset Analysis) |
+| 11 | CreditWise Loan Approval System (ML Pipeline) |
+| 12 | Support Vector Machines (SVM), Kernel Trick, SVR, Ensemble Learning, Random Forest, Bagging, Boosting (Theory) |
 
 ---
 
@@ -255,6 +257,32 @@ To build a Machine Learning system that can:
 
 Real-world ML starts with **problem understanding, not coding**.  
 A strong ML pipeline begins with clear business logic.
+
+---
+
+# ✅ Day 12 Highlights
+
+## 📘 Support Vector Machines (SVM) & Ensemble Learning (Theoretical Understanding)
+
+- Introduction to SVM
+- Hyperplane
+- Support Vectors
+- Margin
+- Kernel Trick
+- Linear Kernel
+- Polynomial Kernel
+- RBF Kernel
+- Support Vector Regression (SVR)
+- Ensemble Learning
+- Bagging
+- Random Forest
+- Boosting
+
+## 💡 Key Understanding
+
+SVMs find the optimal decision boundary using support vectors and margins.
+
+Kernel functions allow SVMs to solve non-linear problems, while Ensemble Learning improves model performance by combining multiple models such as Random Forest and Boosting.
 
 ---
 
