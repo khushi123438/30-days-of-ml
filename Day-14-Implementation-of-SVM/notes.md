@@ -88,5 +88,3 @@ This strengthened my foundation in supervised learning and improved my understan
 ---
 
 🚀 Excited to continue the #30DaysOfML journey by exploring more advanced Machine Learning concepts and practical implementations.
-
-#MachineLearning #DataScience #ArtificialIntelligence #Python #SVM #SVR #SupportVectorMachine #MachineLearningEngineer #AI #30DaysOfML #LearningInPublic #CodingJourney #MLJourney #DataScienceLearning
