@@ -23,6 +23,12 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 11 | CreditWise Loan Approval System (ML Pipeline) |
 | 12 | Support Vector Machines (SVM), Kernel Trick, SVR, Ensemble Learning, Random Forest, Bagging, Boosting (Theory) |
 | 13 | Revision of Decision Trees, SVM, Kernel Trick, SVR, Ensemble Learning, Random Forest, Bagging & Boosting |
+| 14 | SVM Classifier and SVM Regressor Implementation |
+| 15 | GridSearchCV, Hyperparameter Tuning, Bagging, Boosting |
+| 16 | Random Forest, OOB Score, Bagging Models Implementation |
+| 17 | SVM Revision & Hyperparameter Tuning |
+| 18 | Ensemble Learning Revision |
+| 19 | Healthcare Classification Project |
 
 ---
 
@@ -289,7 +295,7 @@ Kernel functions allow SVMs to solve non-linear problems, while Ensemble Learnin
 
 # ✅ Day 13 Highlights
 
-## 📘 Machine Learning Revision
+## 📘 Decision Tree and SVM Concepts Revision (Theory)
 
 - Decision Trees Revision
 - Entropy & Gini Impurity
@@ -310,6 +316,180 @@ Kernel functions allow SVMs to solve non-linear problems, while Ensemble Learnin
 Revision is an essential part of the learning process.
 
 Revisiting concepts helped strengthen my understanding of Decision Trees, SVMs, and Ensemble Learning techniques while identifying areas that need further practice.
+
+---
+
+# ✅ Day 14 Highlights
+
+## 📘 Support Vector Machines (SVM)
+
+- SVM Intuition
+- Hyperplane & Decision Boundary
+- Support Vectors
+- Margin Maximization
+- Linear & Non-Linear Separation
+- SVM Classifier
+- Support Vector Regression (SVR)
+- Python Implementation
+
+## 💻 What I Did
+
+- Implemented SVM Classifier using Scikit-learn
+- Implemented Support Vector Regressor (SVR)
+- Explored hyperplanes and decision boundaries
+- Understood the role of support vectors
+- Learned how SVM handles both classification and regression problems
+
+## 💡 Key Understanding
+
+SVM focuses on the most critical data points called support vectors.
+
+By maximizing the margin between classes, SVM creates robust decision boundaries and can effectively handle both linear and non-linear datasets.
+
+---
+
+# ✅ Day 15 Highlights
+
+## 📘 Hyperparameter Tuning & Ensemble Learning
+
+- GridSearchCV
+- Hyperparameter Tuning
+- Cross Validation
+- LinearSVR vs SVR
+- Ensemble Learning
+- Bagging
+- Boosting
+- Bias-Variance Tradeoff
+
+## 💻 What I Did
+
+- Learned GridSearchCV for automatic hyperparameter tuning
+- Compared LinearSVR and SVR
+- Studied Bagging and Boosting techniques
+- Understood the Bias-Variance Tradeoff
+- Explored model optimization concepts
+
+## 💡 Key Understanding
+
+Model performance often improves more through proper tuning and optimization than by switching algorithms.
+
+Understanding Bagging, Boosting, and Hyperparameter Tuning is essential for building high-performing machine learning models.
+
+---
+
+# ✅ Day 16 Highlights
+
+## 📘 Random Forest & Bagging
+
+- Random Forest Algorithm
+- Ensemble Learning
+- Out-of-Bag (OOB) Evaluation
+- Decision Tree vs Random Forest
+- Bagging Classifier
+- Bagging Regressor
+
+## 💻 What I Did
+
+- Implemented Random Forest models using Scikit-learn
+- Explored OOB scoring for model evaluation
+- Compared Decision Trees and Random Forests
+- Built Bagging Classifier and Bagging Regressor models
+- Analyzed overfitting and model generalization
+
+## 💡 Key Understanding
+
+Combining multiple models through Random Forest and Bagging leads to more stable, accurate, and generalized predictions than relying on a single model.
+
+---
+
+# ✅ Day 17 Highlights
+
+## 📘 SVM Revision & Hyperparameter Tuning
+
+- Introduction to SVM
+- SVM Classifier Intuition
+- Classification Hyperparameters (C, Gamma)
+- Kernel Trick
+- Linear Kernel
+- Polynomial Kernel
+- RBF Kernel
+- SVM Regressor (SVR)
+- GridSearchCV
+- LinearSVR vs SVR
+
+## 💻 What I Did
+
+- Revised SVM mathematical intuition
+- Reviewed classifier and regressor implementations
+- Studied kernel functions and non-linear classification
+- Revised hyperparameter tuning techniques
+- Compared LinearSVR and SVR use cases
+
+## 💡 Key Understanding
+
+SVM is much more than a classification algorithm.
+
+Understanding kernels, margins, support vectors, and parameter tuning provides a strong foundation for solving complex machine learning problems.
+
+---
+
+# ✅ Day 18 Highlights
+
+## 📘 Ensemble Learning Revision
+
+- Ensemble Learning
+- Bagging
+- Boosting
+- Random Forest
+- Out-of-Bag (OOB) Evaluation
+- Decision Tree vs Random Forest
+- Bagging Classifier
+- Bagging Regressor
+
+## 💻 What I Did
+
+- Revised Ensemble Learning concepts
+- Reviewed Bagging and Boosting techniques
+- Explored Random Forest architecture
+- Studied OOB scoring and model evaluation
+- Compared Decision Trees with Random Forests
+- Practiced Bagging implementations
+
+## 💡 Key Understanding
+
+A collection of multiple models often performs better than a single model.
+
+Ensemble methods improve stability, reduce variance, and create more reliable predictions.
+
+---
+
+# ✅ Day 19 Highlights
+
+## 📘 Healthcare Classification Project
+
+### 🏥 Project: NovaGen Research Labs
+
+- Healthcare Data Analysis
+- Binary Classification
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Evaluation
+
+## 💻 What I Did
+
+- Explored a real-world healthcare dataset
+- Understood the importance of unbiased and independent observations
+- Performed data cleaning and preprocessing
+- Conducted Exploratory Data Analysis (EDA)
+- Built classification models using supervised learning techniques
+- Evaluated models using classification metrics
+
+## 💡 Key Understanding
+
+Machine Learning can directly support healthcare research by identifying patterns, improving decision-making, and helping researchers analyze large-scale population health data efficiently.
+
+Real-world ML projects require both technical knowledge and domain understanding.
 
 ---
 
