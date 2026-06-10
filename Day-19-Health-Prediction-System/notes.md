@@ -134,4 +134,3 @@ This project strengthened my understanding of how supervised learning techniques
 
 🚀 Excited to continue the #30DaysOfML journey by improving model performance, exploring feature engineering techniques, and working on more real-world Machine Learning projects.
 
-#MachineLearning #DataScience #SupervisedLearning #AI #30DaysOfML #HealthcareAI #Python #LearningInPublic #MLJourney
