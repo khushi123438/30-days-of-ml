@@ -1,4 +1,4 @@
-# 🚀 Day 21/30 - Advanced Ensemble Learning Techniques
+# 🚀 Day 21 - Advanced Ensemble Learning Techniques
 
 Today, I completed my journey through **Supervised Machine Learning** by exploring some of the most powerful Ensemble Learning techniques used in real-world Machine Learning applications. 📚🤖
 
