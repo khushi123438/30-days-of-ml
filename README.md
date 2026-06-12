@@ -29,6 +29,8 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 17 | SVM Revision & Hyperparameter Tuning |
 | 18 | Ensemble Learning Revision |
 | 19 | Healthcare Classification Project |
+| 20 | Boosting Techniques, Gradient Boosting, AdaBoost, Sequential Learning |
+| 21 | XGBoost, Homogeneous vs Heterogeneous Ensembles, Voting, Stacking, Blending |
 
 ---
 
@@ -493,6 +495,89 @@ Real-world ML projects require both technical knowledge and domain understanding
 
 ---
 
+# ✅ Day 20 Highlights
+
+## 📘 Boosting Techniques in Ensemble Learning
+
+- Introduction to Boosting
+- Bagging vs Boosting
+- Sequential Learning
+- Error Correction Mechanism
+- Gradient Boosting Regressor
+- Gradient Boosting Classifier
+- AdaBoost
+- Weight Updating Strategy
+- Advanced Boosting Algorithms Overview
+
+## 💻 What I Did
+
+- Understood how Boosting improves prediction quality step by step
+- Learned the intuition behind Gradient Boosting algorithms
+- Practiced implementing Boosting models in Python
+- Explored how models focus more on previous prediction errors
+- Compared different Boosting approaches and their learning strategy
+- Strengthened concepts of Ensemble-based optimization
+
+## 💡 Key Understanding
+
+Unlike traditional models that learn independently, Boosting builds models sequentially where each model tries to improve the mistakes of the previous one.
+
+This makes Ensemble methods more powerful, accurate, and capable of handling complex prediction tasks effectively.
+
+Understanding Boosting provides a strong foundation for advanced algorithms such as XGBoost, LightGBM, and CatBoost.
+
+---
+
+# ✅ Day 21 Highlights
+
+## 📘 Advanced Ensemble Learning Techniques
+
+- XGBoost (Implementation)
+- Homogeneous vs Heterogeneous Ensemble Learning
+- Voting Ensemble (Concept)
+- Voting Ensemble (Implementation)
+- Stacking Ensemble (Concept)
+- Stacking Ensemble (Implementation)
+- Blending Technique
+
+## 💻 What I Did
+
+- Implemented XGBoost using Python
+- Understood the difference between Homogeneous and Heterogeneous Ensembles
+- Learned Hard Voting and Soft Voting mechanisms
+- Built Voting Classifier models using multiple algorithms
+- Explored the architecture of Stacking Ensembles
+- Implemented Stacking using base learners and a meta-model
+- Learned how Blending simplifies the Stacking process
+- Compared different Ensemble Learning strategies
+
+## 💡 Key Understanding
+
+Ensemble Learning combines multiple machine learning models to improve prediction accuracy and robustness.
+
+Techniques such as Voting, Stacking, and Blending leverage the strengths of multiple models, while XGBoost enhances Boosting through optimization and regularization, making it one of the most powerful algorithms in Machine Learning.
+
+### 🎯 Major Milestone
+
+✅ Supervised Machine Learning Completed
+
+Covered:
+
+- Linear Regression
+- Logistic Regression
+- KNN
+- Naive Bayes
+- Decision Trees
+- Random Forest
+- SVM
+- Bagging
+- Boosting
+- AdaBoost
+- Gradient Boosting
+- XGBoost
+- Voting
+- Stacking
+- Blending
 # 🛠️ Tools & Libraries Used
 
 - Python
