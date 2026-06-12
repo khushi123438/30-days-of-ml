@@ -107,4 +107,4 @@ Understanding Boosting provides a strong foundation for advanced algorithms such
 
 ---
 
-**🚀 Excited to continue the #30DaysOfML journey with stronger fundamentals and deeper knowledge of Machine Learning algorithms.**
+🚀 Excited to continue the #30DaysOfML journey with stronger fundamentals and deeper knowledge of Machine Learning algorithms.
