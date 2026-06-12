@@ -1,4 +1,4 @@
-# 🚀 Day 20/30 - Boosting Techniques in Ensemble Learning
+# 🚀 Day 20 - Boosting Techniques in Ensemble Learning
 
 Today, I focused on **Boosting Techniques in Ensemble Learning** and learned how multiple weak learners can work together sequentially to create a stronger and more accurate model. 📚🤖
 
