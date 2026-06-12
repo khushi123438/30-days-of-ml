@@ -557,6 +557,8 @@ Ensemble Learning combines multiple machine learning models to improve predictio
 
 Techniques such as Voting, Stacking, and Blending leverage the strengths of multiple models, while XGBoost enhances Boosting through optimization and regularization, making it one of the most powerful algorithms in Machine Learning.
 
+---
+
 ### 🎯 Major Milestone
 
 ✅ Supervised Machine Learning Completed
