@@ -107,8 +107,4 @@ Understanding Boosting provides a strong foundation for advanced algorithms such
 
 ---
 
-### 🎯 Day 20 Status
-
-✅ Completed Successfully
-
-**#30DaysOfML | Learning Ensemble Learning & Boosting Techniques**
+**🚀 Excited to continue the #30DaysOfML journey with stronger fundamentals and deeper knowledge of Machine Learning algorithms.**
