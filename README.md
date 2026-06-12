@@ -578,6 +578,9 @@ Covered:
 - Voting
 - Stacking
 - Blending
+
+---
+  
 # 🛠️ Tools & Libraries Used
 
 - Python
