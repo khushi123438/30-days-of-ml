@@ -31,6 +31,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 19 | Healthcare Classification Project |
 | 20 | Boosting Techniques, Gradient Boosting, AdaBoost, Sequential Learning |
 | 21 | XGBoost, Homogeneous vs Heterogeneous Ensembles, Voting, Stacking, Blending |
+| 22 | Introduction to Unsupervised Learning, Clustering, K-Means Clustering, Elbow Method |
 
 ---
 
@@ -582,7 +583,39 @@ Covered:
 - Blending
 
 ---
-  
+
+# ✅ Day 22 Highlights
+
+## 📘 Unsupervised Machine Learning & Clustering
+
+- Introduction to Unsupervised Learning
+- Difference Between Supervised & Unsupervised Learning
+- Clustering Fundamentals
+- K-Means Clustering Algorithm
+- Cluster Centroids & Iterative Updates
+- Within Cluster Sum of Squares (WCSS)
+- Elbow Method for Optimal K Selection
+
+## 💻 What I Did
+
+- Explored how machine learning models learn from unlabeled data
+- Learned the concept of clustering and grouping similar data points
+- Understood the working of the K-Means Clustering Algorithm
+- Studied centroid initialization and cluster assignment
+- Learned how clusters are updated iteratively until convergence
+- Explored WCSS and its role in evaluating cluster quality
+- Used the Elbow Method to determine the optimal number of clusters
+
+## 💡 Key Understanding
+
+Unlike Supervised Learning, Unsupervised Learning works without target labels and focuses on discovering hidden patterns within data.
+
+K-Means is one of the most widely used clustering algorithms that groups similar observations into clusters by minimizing the distance between data points and their respective centroids.
+
+The Elbow Method helps identify the optimal value of K, ensuring a balance between model simplicity and clustering performance.
+
+---
+
 # 🛠️ Tools & Libraries Used
 
 - Python
