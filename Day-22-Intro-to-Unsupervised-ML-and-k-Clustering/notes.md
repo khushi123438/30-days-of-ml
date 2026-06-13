@@ -1,6 +1,4 @@
-# 🚀 Day 22/30 of #30DaysOfML
-
-# 📚 Exploring Unsupervised Machine Learning & Clustering
+# 🚀 Day 22 - Unsupervised Machine Learning & Clustering
 
 Today marked the beginning of my journey into **Unsupervised Machine Learning**, a branch of ML where models learn patterns and relationships from data without predefined labels. Unlike supervised learning, where the correct outputs are already known, unsupervised learning focuses on discovering hidden structures within datasets.
 
