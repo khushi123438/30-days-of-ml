@@ -32,6 +32,8 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 20 | Boosting Techniques, Gradient Boosting, AdaBoost, Sequential Learning |
 | 21 | XGBoost, Homogeneous vs Heterogeneous Ensembles, Voting, Stacking, Blending |
 | 22 | Introduction to Unsupervised Learning, Clustering, K-Means Clustering, Elbow Method |
+| 23 | Silhouette Score, Random Initialization Trap, K-Means Clustering, Optimal K Selection, K-Means on Iris Dataset, Hierarchical Clustering, Dendrograms |
+| 24 | Hierarchical Clustering (Implementation), K-Means vs Hierarchical Clustering, DBSCAN Clustering, Core/Border/Noise Points, K-Means vs DBSCAN |
 
 ---
 
@@ -613,6 +615,67 @@ Unlike Supervised Learning, Unsupervised Learning works without target labels an
 K-Means is one of the most widely used clustering algorithms that groups similar observations into clusters by minimizing the distance between data points and their respective centroids.
 
 The Elbow Method helps identify the optimal value of K, ensuring a balance between model simplicity and clustering performance.
+
+---
+
+# ✅ Day 23 Highlights
+
+## 📘 Advanced Clustering Techniques & Cluster Evaluation
+
+- Silhouette Score for Cluster Evaluation
+- Random Initialization Trap
+- K-Means Clustering (Theory & Code)
+- Choosing the Optimal Value of K
+- K-Means on Iris Dataset
+- Hierarchical Clustering
+- Understanding Dendrograms
+
+## 💻 What I Did
+
+- Learned how Silhouette Score evaluates clustering quality
+- Understood the impact of random centroid initialization
+- Implemented K-Means Clustering using Python
+- Explored methods for selecting the optimal value of K
+- Applied K-Means on the Iris Dataset
+- Studied Hierarchical Clustering concepts
+- Learned how to interpret Dendrograms for cluster analysis
+
+## 💡 Key Understanding
+
+Clustering is not only about grouping data points but also about evaluating the quality of clusters.
+
+Techniques such as Silhouette Score, Hierarchical Clustering, and Dendrogram Analysis provide deeper insights into cluster formation and help create more meaningful clustering solutions.
+
+---
+
+# ✅ Day 24 Highlights
+
+## 📘 Hierarchical Clustering Implementation & DBSCAN
+
+- Hierarchical Clustering (Code)
+- K-Means vs Hierarchical Clustering
+- DBSCAN Clustering (Theory)
+- DBSCAN Clustering (Code)
+- Core Points, Border Points & Noise Points
+- K-Means vs DBSCAN (Non-Linear Data)
+
+## 💻 What I Did
+
+- Implemented Hierarchical Clustering using Python
+- Compared K-Means and Hierarchical Clustering approaches
+- Learned the working of DBSCAN Clustering
+- Implemented DBSCAN on real datasets
+- Explored Core, Border, and Noise Points
+- Visualized clusters and outliers
+- Compared DBSCAN and K-Means on non-linear datasets
+
+## 💡 Key Understanding
+
+Different clustering algorithms are suitable for different types of data.
+
+While Hierarchical Clustering helps understand relationships between clusters, DBSCAN excels at detecting arbitrary-shaped clusters and identifying noise and outliers in complex datasets.
+
+DBSCAN is especially useful when the number of clusters is unknown and the data contains irregular cluster structures.
 
 ---
 
