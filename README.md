@@ -679,6 +679,41 @@ DBSCAN is especially useful when the number of clusters is unknown and the data 
 
 ---
 
+# ✅ Day 25 Highlights
+
+## 📘 Unsupervised Learning & Clustering Revision
+
+- Complete Clustering Module Revision
+- K-Means Clustering
+- Elbow Method & Silhouette Score
+- Random Initialization Trap
+- K-Means Implementation
+- Hierarchical Clustering & Dendrogram
+- DBSCAN Clustering
+- Core, Border & Noise Points
+- K-Means vs Hierarchical Clustering
+- K-Means vs DBSCAN on Non-Linear Data
+
+## 💻 What I Did
+
+- Revised complete Unsupervised Learning and Clustering concepts
+- Reviewed how clustering algorithms discover hidden patterns from unlabeled data
+- Revisited K-Means working, cluster formation, and evaluation techniques
+- Strengthened understanding of Elbow Method and Silhouette Score
+- Revised Hierarchical Clustering and dendrogram interpretation
+- Reviewed DBSCAN algorithm and its ability to handle noise and irregular-shaped clusters
+- Compared different clustering algorithms based on data distribution and use cases
+
+## 💡 Key Understanding
+
+Different clustering algorithms are designed for different types of datasets.
+
+K-Means works effectively for well-separated spherical clusters, Hierarchical Clustering provides insights into relationships between data points, and DBSCAN performs better on noisy and non-linear datasets.
+
+Choosing the right clustering algorithm depends on data structure, cluster shape, and the presence of outliers.
+
+---
+
 # 🛠️ Tools & Libraries Used
 
 - Python
