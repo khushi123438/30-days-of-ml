@@ -34,6 +34,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 22 | Introduction to Unsupervised Learning, Clustering, K-Means Clustering, Elbow Method |
 | 23 | Silhouette Score, Random Initialization Trap, K-Means Clustering, Optimal K Selection, K-Means on Iris Dataset, Hierarchical Clustering, Dendrograms |
 | 24 | Hierarchical Clustering (Implementation), K-Means vs Hierarchical Clustering, DBSCAN Clustering, Core/Border/Noise Points, K-Means vs DBSCAN |
+| 25 | Revision of Unsupervised Learning, K-Means, Hierarchical Clustering, DBSCAN, Cluster Evaluation Techniques & Algorithm Comparison |
 
 ---
 
