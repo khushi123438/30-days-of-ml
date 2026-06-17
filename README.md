@@ -34,6 +34,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 22 | Introduction to Unsupervised Learning, Clustering, K-Means Clustering, Elbow Method |
 | 23 | Silhouette Score, Random Initialization Trap, K-Means Clustering, Optimal K Selection, K-Means on Iris Dataset, Hierarchical Clustering, Dendrograms |
 | 24 | Hierarchical Clustering (Implementation), K-Means vs Hierarchical Clustering, DBSCAN Clustering, Core/Border/Noise Points, K-Means vs DBSCAN |
+| 25 | Revision of Unsupervised Learning, K-Means, Hierarchical Clustering, DBSCAN, Cluster Evaluation Techniques & Algorithm Comparison |
 
 ---
 
@@ -676,6 +677,41 @@ Different clustering algorithms are suitable for different types of data.
 While Hierarchical Clustering helps understand relationships between clusters, DBSCAN excels at detecting arbitrary-shaped clusters and identifying noise and outliers in complex datasets.
 
 DBSCAN is especially useful when the number of clusters is unknown and the data contains irregular cluster structures.
+
+---
+
+# ✅ Day 25 Highlights
+
+## 📘 Unsupervised Learning & Clustering Revision
+
+- Complete Clustering Module Revision
+- K-Means Clustering
+- Elbow Method & Silhouette Score
+- Random Initialization Trap
+- K-Means Implementation
+- Hierarchical Clustering & Dendrogram
+- DBSCAN Clustering
+- Core, Border & Noise Points
+- K-Means vs Hierarchical Clustering
+- K-Means vs DBSCAN on Non-Linear Data
+
+## 💻 What I Did
+
+- Revised complete Unsupervised Learning and Clustering concepts
+- Reviewed how clustering algorithms discover hidden patterns from unlabeled data
+- Revisited K-Means working, cluster formation, and evaluation techniques
+- Strengthened understanding of Elbow Method and Silhouette Score
+- Revised Hierarchical Clustering and dendrogram interpretation
+- Reviewed DBSCAN algorithm and its ability to handle noise and irregular-shaped clusters
+- Compared different clustering algorithms based on data distribution and use cases
+
+## 💡 Key Understanding
+
+Different clustering algorithms are designed for different types of datasets.
+
+K-Means works effectively for well-separated spherical clusters, Hierarchical Clustering provides insights into relationships between data points, and DBSCAN performs better on noisy and non-linear datasets.
+
+Choosing the right clustering algorithm depends on data structure, cluster shape, and the presence of outliers.
 
 ---
 
