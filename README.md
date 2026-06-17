@@ -720,12 +720,6 @@ Choosing the right clustering algorithm depends on data structure, cluster shape
 
 ## PCA & Dimensionality Reduction
 
-Today, I learned **Principal Component Analysis (PCA)** and explored how dimensionality reduction helps simplify high-dimensional datasets while preserving important information.
-
----
-
-## 🧠 Topics Covered
-
 - Curse of Dimensionality
 - Feature Selection vs Feature Extraction
 - Principal Component Analysis (PCA)
@@ -733,8 +727,6 @@ Today, I learned **Principal Component Analysis (PCA)** and explored how dimensi
 - Explained Variance Ratio
 - PCA Implementation
 - Data Visualization
-
----
 
 ## 💻 What I Did
 
@@ -744,20 +736,9 @@ Today, I learned **Principal Component Analysis (PCA)** and explored how dimensi
 - Visualized data in lower dimensions.
 - Explored dimensionality reduction techniques.
 
----
-
 ## 💡 Key Understanding
 
 PCA reduces the number of features while retaining most of the important information, making data easier to visualize and machine learning models more efficient.
-
----
-
-## ✅ Progress Update
-
-- Learned PCA Fundamentals
-- Implemented PCA in Python
-- Understood Dimensionality Reduction
-- Explored Data Visualization
 
 ---
 
