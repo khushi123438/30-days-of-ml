@@ -716,7 +716,7 @@ Choosing the right clustering algorithm depends on data structure, cluster shape
 
 ---
 
-# ✅ Day 25 Highlights
+# ✅ Day 26 Highlights
 
 ## PCA & Dimensionality Reduction
 
