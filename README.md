@@ -35,6 +35,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 23 | Silhouette Score, Random Initialization Trap, K-Means Clustering, Optimal K Selection, K-Means on Iris Dataset, Hierarchical Clustering, Dendrograms |
 | 24 | Hierarchical Clustering (Implementation), K-Means vs Hierarchical Clustering, DBSCAN Clustering, Core/Border/Noise Points, K-Means vs DBSCAN |
 | 25 | Revision of Unsupervised Learning, K-Means, Hierarchical Clustering, DBSCAN, Cluster Evaluation Techniques & Algorithm Comparison |
+| 26 | PCA, Dimensionality Reduction, Principal Components, Explained Variance, Feature Extraction, Data Visualization |
 
 ---
 
@@ -712,6 +713,32 @@ Different clustering algorithms are designed for different types of datasets.
 K-Means works effectively for well-separated spherical clusters, Hierarchical Clustering provides insights into relationships between data points, and DBSCAN performs better on noisy and non-linear datasets.
 
 Choosing the right clustering algorithm depends on data structure, cluster shape, and the presence of outliers.
+
+---
+
+# ✅ Day 26 Highlights
+
+## PCA & Dimensionality Reduction
+
+- Curse of Dimensionality
+- Feature Selection vs Feature Extraction
+- Principal Component Analysis (PCA)
+- Principal Components
+- Explained Variance Ratio
+- PCA Implementation
+- Data Visualization
+
+## 💻 What I Did
+
+- Learned the intuition behind PCA.
+- Understood Principal Components and Explained Variance.
+- Implemented PCA using Scikit-Learn.
+- Visualized data in lower dimensions.
+- Explored dimensionality reduction techniques.
+
+## 💡 Key Understanding
+
+PCA reduces the number of features while retaining most of the important information, making data easier to visualize and machine learning models more efficient.
 
 ---
 
