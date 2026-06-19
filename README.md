@@ -37,6 +37,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 25 | Revision of Unsupervised Learning, K-Means, Hierarchical Clustering, DBSCAN, Cluster Evaluation Techniques & Algorithm Comparison |
 | 26 | PCA, Dimensionality Reduction, Principal Components, Explained Variance, Feature Extraction, Data Visualization |
 | 27 | Anomaly Detection, Types of Anomalies, DBSCAN for Anomalies, Isolation Forest, LOF (Local Outlier Factor), Outlier Detection |
+| 28 | SmartCart Customer Segmentation System (Part 1), Dataset Understanding & Cleaning, Feature Engineering, Customer Spending Analysis |
 
 ---
 
@@ -763,6 +764,57 @@ PCA reduces the number of features while retaining most of the important informa
 ## 💡 Key Understanding
 
 Anomaly Detection helps identify unusual patterns, frauds, errors, and rare events in datasets. Different algorithms detect anomalies using density, isolation, or neighborhood-based approaches.
+
+---
+
+# ✅ Day 28 Highlights
+
+## 📘 SmartCart Customer Segmentation System (Part 1)
+
+### 🛒 Project Overview
+
+Started building an intelligent customer segmentation system for SmartCart using Unsupervised Machine Learning.
+
+The objective is to identify meaningful customer groups based on purchasing behavior, engagement levels, and loyalty indicators to support personalized marketing and customer retention strategies.
+
+### 📊 Dataset Overview
+
+- 2240 Customer Records
+- 22 Features
+- Customer Demographics
+- Purchase Behaviour
+- Website Activity
+- Customer Feedback
+
+### 💻 What I Did
+
+- Explored dataset structure and business problem
+- Analyzed customer demographics and purchasing patterns
+- Performed data cleaning and preprocessing
+- Handled missing values and inconsistencies
+- Created spending and engagement related features
+- Conducted Exploratory Data Analysis (EDA)
+- Studied income, spending, and purchase frequency distributions
+- Applied feature scaling for clustering preparation
+
+### 🔍 Key Features Used
+
+- Income
+- Recency
+- MntWines
+- MntFruits
+- MntMeatProducts
+- NumWebPurchases
+- NumCatalogPurchases
+- NumStorePurchases
+- NumWebVisitsMonth
+- Complain
+
+### 💡 Key Understanding
+
+Customer behavior data contains hidden patterns that cannot be identified through manual analysis.
+
+Proper preprocessing, feature engineering, and exploratory analysis are essential before applying clustering algorithms to discover meaningful customer segments.
 
 ---
 
