@@ -36,6 +36,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 24 | Hierarchical Clustering (Implementation), K-Means vs Hierarchical Clustering, DBSCAN Clustering, Core/Border/Noise Points, K-Means vs DBSCAN |
 | 25 | Revision of Unsupervised Learning, K-Means, Hierarchical Clustering, DBSCAN, Cluster Evaluation Techniques & Algorithm Comparison |
 | 26 | PCA, Dimensionality Reduction, Principal Components, Explained Variance, Feature Extraction, Data Visualization |
+| 27 | Anomaly Detection, Types of Anomalies, DBSCAN for Anomalies, Isolation Forest, LOF (Local Outlier Factor), Outlier Detection |
 
 ---
 
@@ -739,6 +740,29 @@ Choosing the right clustering algorithm depends on data structure, cluster shape
 ## 💡 Key Understanding
 
 PCA reduces the number of features while retaining most of the important information, making data easier to visualize and machine learning models more efficient.
+
+---
+
+# ✅ Day 27 Highlights
+
+## 📘 Anomaly Detection
+
+- Anomaly Detection Basics
+- Types of Anomalies
+- DBSCAN for Anomaly Detection
+- Isolation Forest
+- Local Outlier Factor (LOF)
+
+## 💻 What I Did
+
+- Learned how anomalies differ from normal data points.
+- Applied DBSCAN for outlier detection.
+- Explored Isolation Forest and LOF algorithms.
+- Compared different anomaly detection techniques.
+
+## 💡 Key Understanding
+
+Anomaly Detection helps identify unusual patterns, frauds, errors, and rare events in datasets. Different algorithms detect anomalies using density, isolation, or neighborhood-based approaches.
 
 ---
 
