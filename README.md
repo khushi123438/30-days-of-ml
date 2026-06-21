@@ -39,7 +39,7 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 27 | Anomaly Detection, Types of Anomalies, DBSCAN for Anomalies, Isolation Forest, LOF (Local Outlier Factor), Outlier Detection |
 | 28 | SmartCart Customer Segmentation System (Part 1), Dataset Understanding & Cleaning, Feature Engineering, Customer Spending Analysis |
 | 29 | SmartCart Customer Segmentation System (Part 2), K-Means Clustering, Cluster Visualization, Customer Segmentation, Business Recommendations |
-| 30 | Completion of ML journey |
+| 30 | Completion of ML Journey |
 
 ---
 
