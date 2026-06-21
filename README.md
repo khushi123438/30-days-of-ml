@@ -37,6 +37,8 @@ I’ll be documenting my Machine Learning learning journey day by day by sharing
 | 25 | Revision of Unsupervised Learning, K-Means, Hierarchical Clustering, DBSCAN, Cluster Evaluation Techniques & Algorithm Comparison |
 | 26 | PCA, Dimensionality Reduction, Principal Components, Explained Variance, Feature Extraction, Data Visualization |
 | 27 | Anomaly Detection, Types of Anomalies, DBSCAN for Anomalies, Isolation Forest, LOF (Local Outlier Factor), Outlier Detection |
+| 28 | SmartCart Customer Segmentation System (Part 1), Dataset Understanding & Cleaning, Feature Engineering, Customer Spending Analysis |
+| 29 | SmartCart Customer Segmentation System (Part 2), K-Means Clustering, Cluster Visualization, Customer Segmentation, Business Recommendations |
 
 ---
 
@@ -763,6 +765,140 @@ PCA reduces the number of features while retaining most of the important informa
 ## 💡 Key Understanding
 
 Anomaly Detection helps identify unusual patterns, frauds, errors, and rare events in datasets. Different algorithms detect anomalies using density, isolation, or neighborhood-based approaches.
+
+---
+
+# ✅ Day 28 Highlights
+
+## 📘 SmartCart Customer Segmentation System (Part 1)
+
+### 🛒 Project Overview
+
+Started building an intelligent customer segmentation system for SmartCart using Unsupervised Machine Learning.
+
+The objective is to identify meaningful customer groups based on purchasing behavior, engagement levels, and loyalty indicators to support personalized marketing and customer retention strategies.
+
+### 📊 Dataset Overview
+
+- 2240 Customer Records
+- 22 Features
+- Customer Demographics
+- Purchase Behaviour
+- Website Activity
+- Customer Feedback
+
+### 💻 What I Did
+
+- Explored dataset structure and business problem
+- Analyzed customer demographics and purchasing patterns
+- Performed data cleaning and preprocessing
+- Handled missing values and inconsistencies
+- Created spending and engagement related features
+- Conducted Exploratory Data Analysis (EDA)
+- Studied income, spending, and purchase frequency distributions
+- Applied feature scaling for clustering preparation
+
+### 🔍 Key Features Used
+
+- Income
+- Recency
+- MntWines
+- MntFruits
+- MntMeatProducts
+- NumWebPurchases
+- NumCatalogPurchases
+- NumStorePurchases
+- NumWebVisitsMonth
+- Complain
+
+### 💡 Key Understanding
+
+Customer behavior data contains hidden patterns that cannot be identified through manual analysis.
+
+Proper preprocessing, feature engineering, and exploratory analysis are essential before applying clustering algorithms to discover meaningful customer segments.
+
+---
+
+# ✅ Day 29 Highlights
+
+## 📘 SmartCart Customer Segmentation System (Part 2)
+
+### 🛒 Project Overview
+
+Completed the SmartCart Customer Segmentation project using Clustering techniques to identify meaningful customer groups based on purchasing behavior, engagement levels, and loyalty indicators.
+
+The goal was to help SmartCart improve customer retention, personalize marketing strategies, and make data-driven business decisions.
+
+---
+
+### 💻 What I Did
+
+- Applied K-Means Clustering on customer data
+- Determined the optimal number of clusters using the Elbow Method
+- Evaluated clustering performance using Silhouette Score
+- Visualized customer segments
+- Analyzed spending patterns and engagement levels
+- Interpreted clusters from a business perspective
+- Generated customer-focused recommendations
+
+---
+
+### 📊 Customer Segments Identified
+
+#### 🟢 High-Value Customers
+
+- High overall spending
+- Frequent purchases
+- Strong customer engagement
+- Loyal and profitable customers
+
+#### 🟡 Regular Customers
+
+- Moderate spending behavior
+- Consistent purchasing activity
+- Stable engagement levels
+
+#### 🔴 At-Risk Customers
+
+- Low engagement
+- High recency values
+- Reduced purchasing activity
+- Potential churn risk
+
+---
+
+### 📈 Business Recommendations
+
+- Launch personalized marketing campaigns
+- Improve customer retention strategies
+- Provide targeted offers and discounts
+- Increase engagement of at-risk customers
+- Recommend products based on customer segments
+- Allocate marketing resources more effectively
+
+---
+
+### 🛠️ Techniques Used
+
+- K-Means Clustering
+- Elbow Method
+- Silhouette Score
+- Cluster Visualization
+- Customer Segmentation Analysis
+
+---
+
+### 💡 Key Understanding
+
+Unsupervised Learning enables businesses to discover hidden patterns in customer behavior without requiring labeled data.
+
+Customer Segmentation helps organizations understand different customer groups, improve engagement, increase retention, and make smarter business decisions through data-driven insights.
+
+---
+
+### 🎯 Project Outcome
+
+Successfully segmented customers into meaningful groups and demonstrated how clustering algorithms can be used to support personalized marketing, customer retention, and business growth strategies.
 
 ---
 
